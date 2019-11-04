@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ojehomon1.githum.io/react-deploy/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Ojehomon1.githum.io/react-deploy/static/js/main.3d731ebd.chunk.js",
+    "main.js.map": "/Ojehomon1.githum.io/react-deploy/static/js/main.3d731ebd.chunk.js.map",
+    "runtime-main.js": "/Ojehomon1.githum.io/react-deploy/static/js/runtime-main.24203358.js",
+    "runtime-main.js.map": "/Ojehomon1.githum.io/react-deploy/static/js/runtime-main.24203358.js.map",
+    "static/js/2.5302f875.chunk.js": "/Ojehomon1.githum.io/react-deploy/static/js/2.5302f875.chunk.js",
+    "static/js/2.5302f875.chunk.js.map": "/Ojehomon1.githum.io/react-deploy/static/js/2.5302f875.chunk.js.map",
+    "index.html": "/Ojehomon1.githum.io/react-deploy/index.html",
+    "precache-manifest.e7ceaaec073da349f878f0aa789b6ba6.js": "/Ojehomon1.githum.io/react-deploy/precache-manifest.e7ceaaec073da349f878f0aa789b6ba6.js",
+    "service-worker.js": "/Ojehomon1.githum.io/react-deploy/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Ojehomon1.githum.io/react-deploy/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/Ojehomon1.githum.io/react-deploy/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24203358.js",
+    "static/js/2.5302f875.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.3d731ebd.chunk.js"
+  ]
+}
